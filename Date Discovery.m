@@ -1,4 +1,4 @@
-% Mystery Match- group G
+
 % Define the data structures for user characteristics and preferences
 user_char = struct('age', [], 'gender', '', 'hair_color', '', 'eye_color', '', 'favorite_band', '', 'favorite_book', '');
 user_pref = struct('age_pref', [], 'gender_pref', '', 'hair_color_pref', '', 'eye_color_pref', '', 'band_pref', '', 'book_pref', '');
